@@ -105,23 +105,6 @@ Annotations should follow this structure:
 
 ---
 
-## Output Results
-### Example Results
-
-#### Input Images
-1. **Front View**
-   ![Front View Input](images/front_view_input.jpg)
-2. **Side View**
-   ![Side View Input](images/side_view_input.jpg)
-
-#### Output Results
-1. **Front View Detection**
-   ![Front View Output](images/front_view_output.jpg)
-2. **Side View Detection**
-   ![Side View Output](images/side_view_output.jpg)
-
----
-
 ## Configuration
 ### Training Configuration
 Edit the `TruckConfig` class in `train.py` for custom parameters:
