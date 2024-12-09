@@ -1,0 +1,11 @@
+numpy
+matplotlib
+scikit-image
+tensorflow
+keras
+pillow
+opencv-python
+h5py
+imgaug
+tk
+mrcnn @ git+https://github.com/matterport/Mask_RCNN.git
